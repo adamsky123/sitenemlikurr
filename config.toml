@@ -1,0 +1,4 @@
+baseURL = "https://funnyquotesyes.vercel.app"
+languageCode = "en-us"
+title = "Funny Quotes For Everyone"
+theme = "hugo-theme-minos"
